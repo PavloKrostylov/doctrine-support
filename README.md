@@ -5,7 +5,7 @@ Better Doctrine Support with Laravel (Support for `enum`)
 # Installing
 
 ```
-composer require larapack/doctrine-support
+composer require pavlokrostylov/doctrine-support
 ```
 
 Then add the following service provider (Laravel 5.4 and below only):
